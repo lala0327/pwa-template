@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s}from"./index-a01e760b.js";const o={name:"Test",data(){return{}},watch:{},methods:{}};function a(c,n,r,p,_,d){return t(),s("p",null,"sss")}const l=e(o,[["render",a]]);export{l as default};
